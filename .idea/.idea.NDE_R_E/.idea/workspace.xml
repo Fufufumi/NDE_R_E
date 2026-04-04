@@ -12,53 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b554f6e7-b5fc-403c-92e0-f5b8ec1690b5" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter_01.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Lvl_FirstPerson.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Lvl_FirstPerson.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Bridge/BP_Bridge_90.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Bridge/BP_Bridge_90.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/LowGravityArea/BP_LowGravityArea.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/LowGravityArea/BP_LowGravityArea.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_MobileCube.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_MobileCube.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/U9/IWHFYJ2ENERLEPKDJ8G21K.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/VW/LVA84P2U04L6YM9Z7OHWJ1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6J/QBSJQVPCM4HC59QHSQ7DAW.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/CF/PTQRDMIWIYM2T1Z96SJD8W.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/VY/N58ENRX4CW1CJRR8OB85K3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/5J/5G6UJMFLJMPQLSD9QOGLUU.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/9B/K2GR6ZSLFRQ0QWZOXUY1IX.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/N3/YLTJLS8IZKPGJY3UZ1S9O3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/ZL/1ZIHL51J5OD6DACS29SQZO.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/JO/ZD2LCJHR6SS2VG45VKM54T.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/LP/BD0HYYBVA0IHBOL6QJ0ADC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/AA/8GIEHGYMIBKCIYQCIY8USQ.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/C9/Z7ZVF0IA46QJ5WHGHKB0WU.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/XW/3Z7BM1RCWQAZF56KWTLUV9.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/DO/V0I9K4KA1PS485PRJ11W6G.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/UA/TAT675YSVY9ZVK92ZQON8X.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/4E/2PVQWBJ5WULHC38R143TAU.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9A/93QPE9MS7J4CJD2JHB3H91.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/SA/U0XVYEWGITE9PQWPNIV2Z1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TM/CJCOQN4JPH3955G0LWP560.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/9C/J8BRPS4TJ011VDVZTS0GWY.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/HM/LZ670CBR40JW6W76WB3KSV.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TX/IZW5LDD6EDKGK35VXDI6TU.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/1W/G8SCTFFVLPVZT5HNKLLYLC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/93/ZJ6K1ZTRUY4VN099UVCR8B.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MJ/3NJVV38RB17WJ27VXAFKTP.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/X5/C7QA3GLKCQKLOA939F9BCQ.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/1/E5/IOQOGT9AJYYZQ06SOLO6RW.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/K6/F8ZC66LL9C8089ENM47GR2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/B/G3/2BZJLOKDJUIW6BXF0P5S45.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/E/RM/QNL6NKNUP4IADIE8S92DI8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NDE_R_E/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NDE_R_E/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NDE_R_E.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/NDE_R_E.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +157,9 @@
       <workItem from="1774160166660" duration="629000" />
       <workItem from="1774163308212" duration="890000" />
       <workItem from="1774873949868" duration="24000" />
+      <workItem from="1775137370962" duration="15000" />
+      <workItem from="1775179128628" duration="163000" />
+      <workItem from="1775180123419" duration="190000" />
     </task>
     <servers />
   </component>
