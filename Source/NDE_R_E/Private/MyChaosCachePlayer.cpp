@@ -2,12 +2,15 @@
 
 
 #include "MyChaosCachePlayer.h"
+#include "GeometryCollection/GeometryCollectionComponent.h"  
+#include "Chaos/CacheManagerActor.h"                         
 
 void AMyChaosCachePlayer::ForceRefreshPhysicsForObservedComponents()
 {
-	for (const FObservedComponent& ObservedComponent : ObservedComponents)
+	const TArray<FObservedComponent> & ComponentArray=GetObservedComponents();
+	for (const FObservedComponent& ObservedComponent : ComponentArray )
 	{
-		if (UGeometryCollectionComponent* GeomComp = Cast<UGeometryCollectionComponent>(ObservedComponent.Component.Get()))
+		if (UGeometryCollectionComponent* GeomComp = Cast<UGeometryCollectionComponent>(ObservedComponent.GetComponent(this)))
 		{
 			// 销毁并重新创建物理状态
 			GeomComp->RecreatePhysicsState();
