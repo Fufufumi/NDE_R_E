@@ -1,0 +1,41 @@
+{
+    "version": 1,
+    "coordinate_system": "unreal",
+    "units": {
+        "length": "centimeters",
+        "scale_length": 1.0,
+        "rotation": "degrees",
+        "rotation_order": "XYZ"
+    },
+    "objects": [
+        {
+            "name": "Flag_001_001",
+            "location": [
+                -35.751963,
+                -10201.94397,
+                452.217245
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    ],
+    "materials": {
+        "Material_006": {
+            "roughness": 0.5,
+            "metallic": 0.0,
+            "emission_strength": 0.0,
+            "mapping_scale": [
+                1.0,
+                1.0
+            ]
+        }
+    }
+}
