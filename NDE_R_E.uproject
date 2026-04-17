@@ -25,5 +25,8 @@
 			"Name": "GameplayStateTree",
 			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../ue_fab_zichan/Plugins/BlockoutToolsPlugin"
 	]
 }
