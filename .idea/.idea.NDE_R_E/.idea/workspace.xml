@@ -13,6 +13,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b554f6e7-b5fc-403c-92e0-f5b8ec1690b5" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NDE_R_E/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NDE_R_E/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter_New.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter_New.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/MechanismTest/BP_GlobalEventDIspatcher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/MechanismTest/BP_GlobalEventDIspatcher.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Button/BP_GravityButton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Button/BP_GravityButton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_MobileCube.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_MobileCube.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_SimpleMoveObj.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_SimpleMoveObj.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +36,6 @@
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerStart.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Private/GameInstance.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Private/PlayerStart.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/UMG/Public/Components/TextBlock.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -48,7 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "NewDevelop",
+    "git-widget-placeholder": "Develop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -171,7 +175,6 @@
       <workItem from="1775460394742" duration="1521000" />
       <workItem from="1775722526578" duration="772000" />
       <workItem from="1778806913207" duration="14000" />
-      <workItem from="1779234916406" duration="23000" />
     </task>
     <servers />
   </component>
